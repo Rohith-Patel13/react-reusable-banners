@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Write your code here. */
+* {
+  font-family: Roboto;
+}
+.heading {
+  color: #326a9d;
+  font-family: Roboto;
+}
+.para {
+  color: #64748b;
+  font-family: Roboto;
+}
+.btnStyle {
+  background-color: transparent;
+  border: 3px solid #326a9d;
+  color: #326a9d;
+  border-radius: 4px;
+  font-family: Roboto;
+  font-weight: bold;
+  padding: 10px 20px;
+}
+
+.listStyle {
+  list-style: none;
+  margin-bottom: 4px;
+  padding: 1rem;
+}
